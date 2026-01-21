@@ -1,7 +1,5 @@
 <bin file="ContourPlot.cpp" name="ContourPlot"></bin>
-<bin file="ParametricMSSM.cpp" name="ParametricMSSM"></bin>
 <bin file="PlotParametric.cpp" name="PlotParametric"></bin>
-<bin file="SMLegacyMorphing.cpp" name="SMLegacyMorphing"></bin>
 <use name="root"/>
 <use name="rootmath"/>
 <use name="roofit"/>
